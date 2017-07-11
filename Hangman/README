@@ -1,0 +1,9 @@
+David Chen 2017
+Game pack
+Simple 2 letter hangman named hgangworm. (requires argument dictionary)
+Coin flip
+
+Makefile supports 
+default
+clean
+dist
